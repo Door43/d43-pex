@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pex:home|Door43 (pex)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pex|d43-pex repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pex/archive/master.zip|d43-pex.zip]]
+
+**Recent Changes**
+{{changes>ns = pex}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pex|Ethnologue data]]
+
